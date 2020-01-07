@@ -1,6 +1,6 @@
 variables:
   ConnectedServiceName: 'Azure Primary'
-  WebAppName: 'smcateerflaskpipelinestest'
+  WebAppName: 'smcateer-flask-test'
 
 trigger:
 - master
